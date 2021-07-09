@@ -1,2 +1,3 @@
-Hola mi nombre es luis carlos prada 
-estoy aprendiendo git y git hub 
+Hello mi nombre es luis carlos prada 
+estoy aprendiendo git y git hub  y tengo 28 años,
+me gusta la programacion
