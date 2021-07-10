@@ -8,6 +8,13 @@ body
     padding: 0;
 }
 
+#cabecera 
+{
+    font-size: 30px;
+    color:forestgreen;
+    
+}
+
 #container
 {
     width:70%;
